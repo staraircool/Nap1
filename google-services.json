@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "734594784781",
+    "firebase_url": "https://nap-network-default-rtdb.firebaseio.com",
+    "project_id": "nap-network",
+    "storage_bucket": "nap-network.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734594784781:android:8204f5588165c342373f44",
+        "android_client_info": {
+          "package_name": "com.napnetwork.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQmHT8RdGZ969tIC2YljUM39rBm7yBb48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
