@@ -66,6 +66,9 @@ workflows:
       flutter: stable
       xcode: latest
       cocoapods: default
+    integrations:
+      app_store_connect:
+        - app_store_connect_integration
     scripts:
       - name: Set up code signing settings on Xcode project
         script: |
